@@ -9,7 +9,7 @@ export default function DashboardPage() {
     <div>
     <h1>Dashboard</h1>
     <input value= {name} onChange ={(e) => setName(e.target.value)} />
-    <p>Hello, {name}!</p>
+    <p>Hello3, {name}!</p>
     </div>
 
    );
